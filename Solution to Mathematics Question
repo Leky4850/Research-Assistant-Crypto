@@ -1,0 +1,23 @@
+QUESTION: Over all real numbers, find the minimum value of a positive real number y, such that y = √((x + 6)2 + 25) + √((x – 6)2 + 121)
+
+SOLUTION:
+ 
+First of all, what is a real number?
+Mathematically, a real number is a value of a continuous quantity that can represent a distance along a line.
+
+Things to note about a set of real numbers:
+1)	Their multiplication are always defined.
+2)	Their inverse exist
+From the question, x was not defined to be a real number so, nothing can be done with the right hand side of the equation.
+Also, there is no minimum value of a real number.
+Therefore, the solution to the question would be the proof that there is no minimum value of y.
+
+PROOF
+
+y is a positive real number, therefore inverse of y exists. i.e. ½ × y exists.
+Multiples of y are defined. i.e. y × 1 = y
+If 0 < ½  < 1
+Therefore, 0 < ½ × y < 1 × y
+Since 0 is less than ½ × y no matter what positive real number value y is; therefore there is no minimum value of y.
+
+Note: < means less than; √ means sqrt which also means square root.
